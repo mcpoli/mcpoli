@@ -1,4 +1,4 @@
-### Hi there 👋
+### Fala galeraa 👋
 **Boas Vindas ao meu perfil 💙
 
 Meu nome é Maria Clara
@@ -6,7 +6,7 @@ Meu nome é Maria Clara
 -Estou me desenvolvendo na linguagem JavaScript
 -Utilizo esse espaço para me organizar melhor e compartilhar meus projetos desenvolvidos
 
-### Você pod entrar em contato comigo 📫
+### Você pode entrar em contato comigo 📫
 
 oliveiramariaclara@gmail.com
 @maahp.oliveira
